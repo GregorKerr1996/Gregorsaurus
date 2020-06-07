@@ -20,7 +20,7 @@ The main focus of the project was filtering on what users could do, instead of f
 
 <div class="row">
   <div class="column">
-    <img alt="Docusaurus with Keytar" src={useBaseUrl('img/CFG3.JPG')} />
+    <img alt="Docusaurus with Keytar" src={useBaseUrl('img/CFG3.jpg')} />
   </div>
   <div class="column">
     <img alt="Docusaurus with Keytar" src={useBaseUrl('img/CFG1.JPG')} />
