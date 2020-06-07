@@ -8,32 +8,34 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Gregor Kerr</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Glasgow University Mens Football Club</>,
+    imageUrl: 'img/me2.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      Ex Sponsorship Convenor, Social Media Convenor and current Vice Captain for Mens Football. 
+      Won Bucs 3A 2019-2020.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Charity Events</>,
+    imageUrl: 'img/charity.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      Ran Great Scottish Run 2019 to raise money for Alzheimer Scotland.
+      Organised Football Teams charity week for Mental Health Week where we ran/cycled/walked over 2600KM for BackOnside, a charity focusing on mental
+      health within sport.  
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Software Interests</>,
+    imageUrl: 'img/coding.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      Always looking to try new technologies, check my Projects to see past and present projects.
+      I have a particular interest in Neural Networks and have enjoyed using Pytorch for computer vision and image classification.
+
       </>
     ),
   },

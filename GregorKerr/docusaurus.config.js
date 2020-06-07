@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Gregor Alexander Kerr',
-  tagline: 'University of Glasgow Masters Student',
+  tagline: 'University of Glasgow Computer Science Masters Student',
   url: 'https://GregorKerr1996.github.io',
   baseUrl: '/Gregorsaurus/',
   favicon: 'img/favicon.ico',
