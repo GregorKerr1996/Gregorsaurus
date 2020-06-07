@@ -8,8 +8,8 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Gregor Kerr</>,
+    imageUrl: 'https://pbs.twimg.com/media/Dq7bmwcXQAA4t2b.jpg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'https://pbs.twimg.com/media/Dq7bmwcXQAA4t2b.jpg',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -72,7 +72,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Projects
             </Link>
           </div>
         </div>

@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'Gregor Alexander Kerr',
+  tagline: 'University of Glasgow Masters Student',
+  url: 'https://GregorKerr1996.github.io',
+  baseUrl: '/Gregorsaurus/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'GregorKerr1996', // Usually your GitHub org/user name.
+  projectName: 'Gregorsaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'GregorKerr',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -17,17 +17,19 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Projects',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/GregorKerr1996',
           label: 'GitHub',
           position: 'right',
         },
       ],
     },
+
+
     footer: {
       style: 'dark',
       links: [

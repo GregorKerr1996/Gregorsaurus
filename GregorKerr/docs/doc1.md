@@ -1,16 +1,19 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: Glasgow University Honours Project
+sidebar_label: Honours Project
 ---
+### Using Deep Convolutional Neural Networks to Provide Insight into Airbnb Property Images
+Github Repo for Project can be viewed here -> [IndividualProject](https://github.com/GregorKerr1996/individualProject). 
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+Paper itself can be viewed [Here](https://github.com/GregorKerr1996/individualProject/blob/master/dissertation/2139619k.pdf)
 
-## Markdown Syntax
 
-To serve as an example page when styling markdown based Docusaurus sites.
+### Technology Stack
 
-## Headers
+Pytorch          |  GoogleColab     | Google Cloud Storage    |  Heroku + Flask
+:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:
+![](https://www.quintagroup.com/blog/blog-images/machine-learning-libraries/pytorch.png/@@images/cce95fa7-4048-42c1-b768-dca2a747b8bd.png)  |  ![](https://3.bp.blogspot.com/-apoBeWFycKQ/XhKB8fEprwI/AAAAAAAACM4/Sl76yzNSNYwlShIBrheDAum8L9qRtWNdgCLcBGAsYHQ/s1600/colab.png) | ![](https://miro.medium.com/max/270/1*jdkSgumNQ_13yx3GdSb65Q.png) | ![](https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png) 
 
 # H1 - Create the best documentation
 
