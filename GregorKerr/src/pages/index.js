@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Gregor Kerr</>,
-    imageUrl: 'https://pbs.twimg.com/media/Dq7bmwcXQAA4t2b.jpg',
+    imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: <>Focus on What Matters</>,
-    imageUrl: 'https://pbs.twimg.com/media/Dq7bmwcXQAA4t2b.jpg',
+    imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -73,6 +73,30 @@ function Home() {
               )}
               to={useBaseUrl('docs/')}>
               Projects
+            </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={'https://pdfhost.io/v/YuwZQAiNY_Microsoft_Word_Gregor_Alexander_Kerr_cvdocx.pdf'}>
+              MyCV
+            </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={'https://github.com/GregorKerr1996/'}>
+              My Github
+            </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={'https://uk.linkedin.com/in/gregor-kerr'}>
+              linkedin
             </Link>
           </div>
         </div>
